@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eireizeip.fixni.me/sitemap.xml
